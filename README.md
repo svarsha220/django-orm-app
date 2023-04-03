@@ -23,7 +23,8 @@ Include your code here
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![django jpgfile](https://user-images.githubusercontent.com/127709117/229409139-03268c91-fd0b-4ecb-9202-c84535db8a3e.jpg)
+
 
 
 ## RESULT
