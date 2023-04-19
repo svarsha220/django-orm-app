@@ -37,9 +37,9 @@ Include your code here
 
 ## OUTPUT
 
-### Adminpage
+## Adminpage
 
-![Admintable](./output.png)
+![Admintable](./out.png)
 
 ## RESULT
 
